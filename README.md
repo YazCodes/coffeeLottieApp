@@ -132,18 +132,6 @@ Details include the coffee shop’s name,aesthetics rating, images and videos of
 
 ---
 
-## **Suggestions for Improvement**
-- **Gamification**: Add rewards or achievements for visiting multiple coffee shops.
-- **Augmented Reality (AR)**: Allow users to visualize the shop's ambiance through AR.
-- **Dark Mode**: Introduce a dark theme for night-time browsing.
-
----
-
-## **Contact**
-If you have any feedback or suggestions, feel free to reach out via [your email or social media handle].
-
----
-
 ## **Acknowledgments**
 - **Vietnamese Coffee Culture**: For inspiring the creation of this app.
 - **React Native Community**: For providing excellent resources and support.
