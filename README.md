@@ -108,7 +108,7 @@ Details include the coffee shop’s name,aesthetics rating, images and videos of
 ### **Long-Term Goals**
 1. **Multi-City Support**:
    - Expand the app to include coffee shops from other coffee-loving cities worldwide.
-2. **Language Localization**:
+2. **Exapand Language options**:
    - Support multiple languages for a global audience.
 3. **Social Sharing**:
    - Allow users to share their favorite coffee shops on social media.
