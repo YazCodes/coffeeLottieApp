@@ -17,9 +17,7 @@ const HomeScreen = ({ navigation }) => {
     },
     { name: "Train Street Coffee", aestheticsRating: 5.0,
       image: require('../assets/images/train-street-2.jpg'),
-      videos: [
-        require('../assets/videos/train-street-1.mp4'),
-      ],
+      videos: require('../assets/videos/train-street-1.mp4'),
     },
     { name: "Giao Mua Coffee", aestheticsRating: 4.0,
       videos: [
@@ -42,6 +40,20 @@ const HomeScreen = ({ navigation }) => {
       ],
     },
     { name: "Highlands Coffee", aestheticsRating: 3.0, image: require('../assets/images/Highlands-coffee.jpg'),},
+    { name: "Cafe Apartments", aestheticsRating: 5.0,
+      videos: require('../assets/videos/cafe-apartments.mp4'),
+    },
+    { name: "% Arabica Coffee", aestheticsRating: 4.0,
+      image: require('../assets/images/arabica-coffee.jpg'),
+      videos: require('../assets/videos/arabica-coffee-2.mp4'),
+    }, 
+    { name: "Zyzu Kafé", aestheticsRating: 4.5,
+      videos: [
+        require('../assets/videos/zyzu-kafe-1.mp4'),
+        require('../assets/videos/zyzu-kafe-2.mp4'),
+        require('../assets/videos/zyzu-kafe-3.mp4'),
+      ],
+    },
   ];
 
   const handleGenerate = () => {
